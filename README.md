@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?https://github.com/FernandoSilvaDS=anuraghazra&show_icons=true&theme=radical)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FernandoSilvaDS&show_icons=true&theme=radical)
+
