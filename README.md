@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 
 
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/FernandoSilvaDS?style=social">
-###[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/thaianebraga/)
+
 
