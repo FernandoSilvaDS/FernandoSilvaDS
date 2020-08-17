@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 
 -->
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/FernandoSilvaDS?style=social">
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FernandoSilvaDS&show_icons=true&theme=radical)
+
+
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/FernandoSilvaDS?style=social">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoSilvaDS)](https://github.com/anuraghazra/github-readme-stats)
 
