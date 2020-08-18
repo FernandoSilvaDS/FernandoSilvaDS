@@ -14,26 +14,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ <div class="stackedit__html"><h1 id="my-path-to-become-a-data-scientist.">My Path to become a Data Scientist.</h1>
+<h1 id="courses-list">Courses List</h1>
+<h2 id="introductory">Introductory</h2>
+<p><a href="https://www.greatlearning.in/academy/learn-for-free/courses/python-for-machine-learning"># Python for Machine Learning</a><br>
+<a href="https://www.youtube.com/watch?v=wiMVpFfxA0w&amp;list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH"># LaBHacker -  Análise de dados em Python</a></p>
 -->
 
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=FernandoSilvaDS)](https://github.com/FernandoSilvaDS/github-contribution-stats/)
 
 
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Welcome file</title>
-  <link rel="stylesheet" href="https://stackedit.io/style.css" />
-</head>
 
-<body class="stackedit">
-  <div class="stackedit__html"><h1 id="my-path-to-become-a-data-scientist.">My Path to become a Data Scientist.</h1>
-<h1 id="courses-list">Courses List</h1>
-<h2 id="introductory">Introductory</h2>
-<p><a href="https://www.greatlearning.in/academy/learn-for-free/courses/python-for-machine-learning"># Python for Machine Learning</a><br>
-<a href="https://www.youtube.com/watch?v=wiMVpFfxA0w&amp;list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH"># LaBHacker -  Análise de dados em Python</a></p>
-</div>
-</body>
+
 
 
