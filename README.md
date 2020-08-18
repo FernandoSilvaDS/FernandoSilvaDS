@@ -1,5 +1,4 @@
 [![Header](https://github.com/FernandoSilvaDS/FernandoSilvaDS/blob/master/banner/Fernando%20Silva.gif)](https://github.com/FernandoSilvaDS)
-
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/FernandoSilvaDS?style=social">
 
 <h1 id="my-path-to-become-a-data-scientist.">My Path to become a Data Scientist.</h1>
