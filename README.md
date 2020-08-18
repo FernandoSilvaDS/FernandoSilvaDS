@@ -1,14 +1,6 @@
 [![Header](https://github.com/FernandoSilvaDS/FernandoSilvaDS/blob/master/banner/Fernando%20Silva.gif)](https://github.com/FernandoSilvaDS)
 
-## Table of contents
-* [General info](#general-info)
-* [Screenshots](#screenshots)
-* [Technologies](#technologies)
-* [Setup](#setup)
-* [Features](#features)
-* [Status](#status)
-* [Inspiration](#inspiration)
-* [Contact](#contact)
+<img alt="GitHub followers" src="https://img.shields.io/github/followers/FernandoSilvaDS?style=social">
 <!--
 **FernandoSilvaDS/FernandoSilvaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -28,6 +20,6 @@ Here are some ideas to get you started:
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=FernandoSilvaDS)](https://github.com/FernandoSilvaDS/github-contribution-stats/)
 
-<img alt="GitHub followers" src="https://img.shields.io/github/followers/FernandoSilvaDS?style=social">
+
 
 
