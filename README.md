@@ -1,6 +1,5 @@
 [![Header](https://github.com/FernandoSilvaDS/FernandoSilvaDS/blob/master/banner/banner.jpg)](https://github.com/FernandoSilvaDS)
 
-### Hi there 👋
 
 <!--
 **FernandoSilvaDS/FernandoSilvaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-
 
 -->
 
