@@ -21,11 +21,6 @@ Here are some ideas to get you started:
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=FernandoSilvaDS)](https://github.com/FernandoSilvaDS/github-contribution-stats/)
 
 
-
-
-<html>
-
-<head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Welcome file</title>
@@ -41,4 +36,4 @@ Here are some ideas to get you started:
 </div>
 </body>
 
-</html>
+
