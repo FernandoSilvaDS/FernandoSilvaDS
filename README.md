@@ -1,4 +1,4 @@
-[![Header](https://github.com/FernandoSilvaDS/FernandoSilvaDS/blob/master/banner/banner.jpg)](https://github.com/FernandoSilvaDS)
+[![Header](https://github.com/FernandoSilvaDS/FernandoSilvaDS/blob/master/banner/Fernando%20Silva.gif)](https://github.com/FernandoSilvaDS)
 
 
 <!--
