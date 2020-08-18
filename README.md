@@ -1,3 +1,5 @@
+[![Header](https://github.com/adamalston/adamalston/raw/master/profile.gif)](https://www.adamalston.com/)
+
 ### Hi there 👋
 
 <!--
@@ -18,7 +20,6 @@ Here are some ideas to get you started:
 
 -->
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=FernandoSilvaDS&show_icons=true&theme=algolia)
 
 [![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=FernandoSilvaDS)](https://github.com/FernandoSilvaDS/github-contribution-stats/)
 
