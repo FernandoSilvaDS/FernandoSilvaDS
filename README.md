@@ -1,6 +1,14 @@
 [![Header](https://github.com/FernandoSilvaDS/FernandoSilvaDS/blob/master/banner/Fernando%20Silva.gif)](https://github.com/FernandoSilvaDS)
 
-
+## Table of contents
+* [General info](#general-info)
+* [Screenshots](#screenshots)
+* [Technologies](#technologies)
+* [Setup](#setup)
+* [Features](#features)
+* [Status](#status)
+* [Inspiration](#inspiration)
+* [Contact](#contact)
 <!--
 **FernandoSilvaDS/FernandoSilvaDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
