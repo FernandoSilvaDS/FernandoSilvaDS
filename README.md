@@ -4,8 +4,9 @@
 <h1 id="my-path-to-become-a-data-scientist.">My Path to become a Data Scientist.</h1>
 <h1 id="courses-list">Courses List</h1>
 <h2 id="introductory">Introductory</h2>
-<p><a href="https://www.greatlearning.in/academy/learn-for-free/courses/python-for-machine-learning"># Python for Machine Learning</a><br>
-<a href="https://www.youtube.com/watch?v=wiMVpFfxA0w&amp;list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH"># LaBHacker -  Análise de dados em Python</a></p>
+[Python for Machine Learning](https://www.greatlearning.in/academy/learn-for-free/courses/python-for-machine-learning)
+  
+https://www.youtube.com/watch?v=wiMVpFfxA0w&amp;list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH LaBHacker -  Análise de dados em Python
 
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
