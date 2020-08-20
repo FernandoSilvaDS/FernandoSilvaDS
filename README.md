@@ -8,13 +8,10 @@
 <a href="https://www.youtube.com/watch?v=wiMVpFfxA0w&amp;list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH"># LaBHacker -  Análise de dados em Python</a></p>
 
 
-- [ ] o
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
-iop | op
-----|----
-
-* item 1
-* item 2
-  * item 2a
-
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![CC-0 license](https://img.shields.io/badge/License-CC--0-blue.svg)](https://creativecommons.org/licenses/by-nd/4.0)
+[![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github)](https://github.com/Naereen/badges/)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
