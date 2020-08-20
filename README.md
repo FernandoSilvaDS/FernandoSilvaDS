@@ -8,7 +8,10 @@
 <a href="https://www.youtube.com/watch?v=wiMVpFfxA0w&amp;list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH"># LaBHacker -  Análise de dados em Python</a></p>
 
 
+- [ ] o
 
+iop | op
+----|----
 
 
 
