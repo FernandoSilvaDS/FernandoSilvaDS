@@ -3,7 +3,7 @@
 
 
 * # __Lista de Cursos__
-   ---
+   ***
     * [LaBHacker - Análise de dados em Python](https://www.youtube.com/watch?v=wiMVpFfxA0w&amp;list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) 
     * [Python for Machine Learning](https://www.greatlearning.in/academy/learn-for-free/courses/python-for-machine-learning)
 
