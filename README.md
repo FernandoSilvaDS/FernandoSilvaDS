@@ -5,7 +5,8 @@
 * # __Lista de Cursos__
    ***
     * [LaBHacker - Análise de dados em Python](https://www.youtube.com/watch?v=wiMVpFfxA0w&amp;list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) 
-          * [Exercicios](https://github.com/FernandoSilvaDS/DATA-SCIENCE---Plano-de-Estudos)
+           * [Exercicios](https://github.com/FernandoSilvaDS/DATA-SCIENCE---Plano-de-Estudos)
+          
     * [Python for Machine Learning](https://www.greatlearning.in/academy/learn-for-free/courses/python-for-machine-learning)
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
