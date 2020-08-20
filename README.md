@@ -17,4 +17,4 @@ https://www.youtube.com/watch?v=wiMVpFfxA0w&amp;list=PLqiFjCF_dtcymXtdjwAP4s7tRo
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
 
 
-[Meu GitHub](https://gustavoguanabara.github.io) 
+[LaBHacker - Análise de dados em Python](https://www.youtube.com/watch?v=wiMVpFfxA0w&amp;list=PLqiFjCF_dtcymXtdjwAP4s7tRoW4CYwnH) 
